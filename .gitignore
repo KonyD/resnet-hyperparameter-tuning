@@ -1,0 +1,10 @@
+.spyproject/
+resnet_hyperparameter_tuning_directory/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.vscode/
+.idea/
